@@ -54,7 +54,7 @@ The system lies firmly in the dilute gas regime.
 σ = 1  
 ε = 1  
 m = 1  
-kB = 1  
+k_B = 1  
 
 
 
